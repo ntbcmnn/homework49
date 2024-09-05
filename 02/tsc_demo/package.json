@@ -1,0 +1,17 @@
+{
+  "name": "tsc_demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon",
+    "board": "tsc && node board.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^3.1.4",
+    "typescript": "^5.5.4"
+  }
+}
